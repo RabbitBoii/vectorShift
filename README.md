@@ -3,7 +3,7 @@
 ## Project Overview
 This project is a React-based Node Pipeline UI integrated with a FastAPI backend. It allows users to create, connect, and analyze node-based workflows.
 
-![Pipeline Overview](./public/Screenshot%202025-12-14%20185506.png)
+![Pipeline Overview](./public/sss.png)
 
 ## Features
 - **Node Abstraction:** Created a reusable `BaseNode` component for consistent styling and logic across all nodes.
